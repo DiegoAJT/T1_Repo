@@ -22,7 +22,7 @@ function App() {
 
     setTimeout(() => {
       setSubmitting(false);
-    }, 5000);
+    }, 7000);
   }
 
   const handleChange = event => {
